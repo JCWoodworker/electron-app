@@ -12,6 +12,7 @@ const Home: React.FC = () => {
 			<h1>Home</h1>
 			<p>----------</p>
 			<p>Active Component = {activeComponent}</p>
+			<p>This is version 0.1.1!!</p>
 		</div>
 	)
 }

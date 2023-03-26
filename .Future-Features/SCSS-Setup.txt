@@ -1,0 +1,27 @@
+assets/scss
+  /base
+    >  _index.scss
+    >  _elements.scss
+    >  _fonts.scss
+    >  _mixins.scss
+    >  _colors.scss
+  /components
+    >  _index.scss
+    >  _buttons.scss
+    >  _forms.scss
+    >  _grid.scss
+    >  _icons.scss
+  /layout
+    >  _index.scss
+    >  _header.scss
+    >  _footer.scss
+    >  _sidebar.scss
+    >  _navigation.scss
+  /pages
+    >  _index.scss
+    >  _home.scss
+    >  _Nav1.scss
+    >  _Nav2.scss
+    >  _Nav3.scss
+    >  _Nav4.scss
+  > main.scss

@@ -1,6 +1,6 @@
 {
   "name": "desktop-electron-app",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "main": "dist-electron/main/index.js",
   "description": "Desktop Electron App",
   "author": "James Corey",
